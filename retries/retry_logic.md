@@ -1,4 +1,4 @@
-
+```
 RETRY LOGIC — AUTOMATION UTILITIES LIBRARY (CODE)
 
 import time
@@ -67,3 +67,5 @@ def retry_with_condition(operation, condition, retries=3, delay=2):
             time.sleep(delay)
 
     raise Exception("Condition not met after maximum retry attempts")
+
+```
