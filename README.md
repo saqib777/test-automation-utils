@@ -33,3 +33,24 @@ This repository centralizes those concerns into well-defined utilities so that:
 
 ## Repository Structure
 
+test-automation-utils/
+│
+├── waits/
+│ └── wait_helpers.py
+│
+├── retries/
+│ └── retry_helper.py
+│
+├── data/
+│ └── test_data_generator.py
+│
+├── screenshots/
+│ └── screenshot_helper.py
+│
+├── assertions/
+│ └── custom_assertions.py
+│
+├── logging/
+│ └── logger_helper.py
+│
+└── README.md
