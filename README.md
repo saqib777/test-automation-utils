@@ -33,6 +33,7 @@ This repository centralizes those concerns into well-defined utilities so that:
 
 ## Repository Structure
 
+```
 test-automation-utils/
 │
 ├── waits/
@@ -54,3 +55,7 @@ test-automation-utils/
 │ └── logger_helper.py
 │
 └── README.md
+
+```
+
+
